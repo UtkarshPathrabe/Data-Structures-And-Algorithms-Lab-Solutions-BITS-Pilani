@@ -1,0 +1,74 @@
+
+The InOrder Tree Walk Gives:
+0000020          Bhagwad_Gita_As_It_Is               Swami_Prabhupada   150.00
+0000023                         ANSI_C                  Balaguruswamy   200.89
+0000030        Principles_Of_Economics                      Case_Fair   659.35
+0000034                 Symbolic_Logic                  Irving_M_Copi   155.34
+0000041                  Logic_In_C.S.                    Huth_&_Ryan   500.98
+0000045       Technical_Report_Writing                         Sharma   400.00
+0000048            Intro_To_Algorithms               Cormen_Leiserson   911.56
+0000050                 Digital_Design                    Morris_Mano   321.60
+0000053               Winning_Formulas                    A.R.K.Sarma   100.00
+0000055          Intel_Microprocessors                           Brey   367.87
+0000056               Database_Systems                  Garcia_Molina   368.49
+0000060               Java_Programming                      Horstmann   251.43
+0000067           Discrete_Mathematics                        C.L.Liu   412.56
+0000070                Mathematics_III                        Simmons   321.60
+0000078       Intro_To_Electrodynamics                       Griffith   450.62
+
+The height of the tree is 5.
+
+Search:	The book is absent.
+
+Latest Book:
+ The Book is: 0000078       Intro_To_Electrodynamics                       Griffith   450.62
+
+Oldest Book:
+ The Book is: 0000020          Bhagwad_Gita_As_It_Is               Swami_Prabhupada   150.00
+
+Maximum Price Book:
+ The Book is: 0000048            Intro_To_Algorithms               Cormen_Leiserson   911.56
+
+Minimum Price Book:
+ The Book is: 0000053               Winning_Formulas                    A.R.K.Sarma   100.00
+
+Re-Ordered Binary Tree According to Price of Books.
+The InOrder Tree Walk Gives:
+0000053               Winning_Formulas                    A.R.K.Sarma   100.00
+0000020          Bhagwad_Gita_As_It_Is               Swami_Prabhupada   150.00
+0000034                 Symbolic_Logic                  Irving_M_Copi   155.34
+0000023                         ANSI_C                  Balaguruswamy   200.89
+0000060               Java_Programming                      Horstmann   251.43
+0000070                Mathematics_III                        Simmons   321.60
+0000050                 Digital_Design                    Morris_Mano   321.60
+0000055          Intel_Microprocessors                           Brey   367.87
+0000056               Database_Systems                  Garcia_Molina   368.49
+0000045       Technical_Report_Writing                         Sharma   400.00
+0000067           Discrete_Mathematics                        C.L.Liu   412.56
+0000078       Intro_To_Electrodynamics                       Griffith   450.62
+0000041                  Logic_In_C.S.                    Huth_&_Ryan   500.98
+0000030        Principles_Of_Economics                      Case_Fair   659.35
+0000048            Intro_To_Algorithms               Cormen_Leiserson   911.56
+
+The height of the tree is 7.
+
+The Original Binary Tree after deleting the book:
+ The Book is: 0000030        Principles_Of_Economics                      Case_Fair   659.35
+
+The InOrder Tree Walk Gives:
+0000020          Bhagwad_Gita_As_It_Is               Swami_Prabhupada   150.00
+0000023                         ANSI_C                  Balaguruswamy   200.89
+0000034                 Symbolic_Logic                  Irving_M_Copi   155.34
+0000041                  Logic_In_C.S.                    Huth_&_Ryan   500.98
+0000045       Technical_Report_Writing                         Sharma   400.00
+0000048            Intro_To_Algorithms               Cormen_Leiserson   911.56
+0000050                 Digital_Design                    Morris_Mano   321.60
+0000053               Winning_Formulas                    A.R.K.Sarma   100.00
+0000055          Intel_Microprocessors                           Brey   367.87
+0000056               Database_Systems                  Garcia_Molina   368.49
+0000060               Java_Programming                      Horstmann   251.43
+0000067           Discrete_Mathematics                        C.L.Liu   412.56
+0000070                Mathematics_III                        Simmons   321.60
+0000078       Intro_To_Electrodynamics                       Griffith   450.62
+
+The height of the tree is 5.
