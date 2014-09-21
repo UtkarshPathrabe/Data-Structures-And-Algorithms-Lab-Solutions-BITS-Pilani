@@ -1,0 +1,238 @@
+***************************************************************INDEX******************************************************
+I              :	89, 102, 143, 147, 165, 245, 249, 293, 347, 361, 394, 423.
+a              :	49, 55, 177, 204, 217, 267, 357, 405.
+about          :	26.
+account        :	341.
+advice         :	234.
+affairs        :	385.
+affirmed       :	216.
+after          :	171.
+ago            :	29.
+air            :	184.
+alone          :	395.
+although       :	77.
+am             :	396.
+among          :	74, 208.
+an             :	183.
+ancient        :	11.
+and            :	12, 115, 159, 161, 191, 280, 307, 315, 344, 400.
+answerable     :	397.
+any            :	214, 402, 432.
+apparent       :	187.
+apprehend      :	351.
+as             :	142, 223, 225, 290, 309, 311, 368, 370, 414, 430.
+at             :	43, 108, 211, 262, 287, 412.
+author         :	2, 170, 194, 243, 422, 438.
+banbury        :	109.
+be             :	261, 356, 425.
+bearings       :	316.
+became         :	203.
+been           :	286.
+before         :	120.
+better         :	268.
+between        :	20.
+bold           :	297.
+book           :	450, 451.
+born           :	81.
+but            :	360.
+by             :	232.
+came           :	96, 416.
+capacity       :	375.
+carefully      :	149.
+churchyard     :	107.
+circumstantial :	180.
+coming         :	40.
+commit         :	391.
+common         :	276.
+communicated   :	246.
+concourse      :	36.
+confirm        :	100.
+convenient     :	56.
+country        :	64.
+county         :	112.
+curiosity      :	406.
+curious        :	38.
+custody        :	127.
+descriptions   :	325.
+dispose        :	139.
+dissatisfied   :	359.
+distinguished  :	197.
+dwelt          :	87.
+entertainment  :	269.
+esteem         :	73.
+family         :	95.
+father         :	86.
+fault          :	164.
+find           :	166.
+first          :	446.
+fit            :	146, 365.
+following      :	130.
+for            :	198, 264, 398, 431.
+friend         :	14.
+from           :	97, 417, 444.
+further        :	433.
+general        :	374.
+good           :	72.
+gratify        :	428.
+growing        :	32.
+gulliver       :	8, 31, 79, 228, 354.
+gullivers      :	119.
+had            :	229, 294.
+hands          :	134, 419.
+hath           :	404.
+have           :	90, 103, 148, 285, 348, 387.
+he             :	66, 121, 124.
+heard          :	91.
+him            :	42, 92, 429.
+his            :	44, 62, 75, 85, 94, 199, 209.
+hoping         :	258.
+house          :	45, 57.
+however        :	378.
+if             :	226, 292, 379, 401.
+ignorance      :	382.
+in             :	46, 60, 71, 82, 105, 110, 132, 317, 332, 334, 383.
+indeed         :	192.
+innumerable    :	301.
+intimate       :	13.
+into           :	255.
+is             :	9, 16, 156, 167, 176, 182.
+it             :	202, 221, 231, 415.
+land           :	53.
+large          :	291, 413.
+latitudes      :	345.
+least          :	263, 288.
+led            :	388.
+left           :	125.
+lemuel         :	7.
+liberty        :	137.
+likewise       :	17, 339.
+little         :	178, 358.
+lives          :	68.
+longitudes     :	343.
+made           :	48, 296.
+management     :	328.
+manner         :	173.
+may            :	260, 355.
+me             :	389.
+minute         :	324.
+mistakes       :	393.
+monuments      :	116.
+mother’s     :	24.
+mr             :	6, 30, 78, 227, 353.
+much           :	369.
+my             :	10, 133, 380.
+native         :	63.
+near           :	58.
+neighbours     :	76, 210.
+newark         :	59.
+noblemen       :	273.
+not            :	295.
+nottinghamshire:	61, 83.
+now            :	67, 250.
+observed       :	104.
+of             :	3, 34, 37, 52, 117, 128, 140, 174, 185, 206, 235, 278, 326, 329, 337, 342, 376, 420, 448.
+on             :	22.
+one            :	215.
+only           :	163.
+our            :	271.
+out            :	300.
+own            :	381.
+oxfordshire    :	98.
+pages          :	447.
+papers         :	131, 248.
+particulars    :	434.
+party          :	281.
+passages       :	302.
+people         :	39.
+permission     :	244.
+persons        :	238.
+perused        :	150.
+plain          :	158.
+politics       :	279.
+possible       :	371.
+proverb        :	207.
+purchase       :	51.
+quitted        :	122.
+reader         :	440.
+readers        :	377.
+ready          :	426.
+reason         :	349.
+receive        :	442.
+redriff        :	47, 123, 212.
+relating       :	303, 435.
+relation       :	19.
+resolved       :	363.
+retired        :	69.
+sailors        :	338.
+satisfaction   :	443.
+say            :	93, 220.
+scribbles      :	277.
+sea            :	384.
+see            :	408.
+send           :	253.
+several        :	113, 236, 319.
+shall          :	386.
+ship           :	331.
+should         :	144.
+side           :	25.
+simple         :	160.
+small          :	50.
+so             :	196.
+some           :	18, 265, 392.
+sort           :	205.
+spoken         :	230.
+storms         :	333.
+strike         :	299.
+style          :	155, 336.
+than           :	274.
+that           :	111, 168, 201, 352.
+the            :	1, 23, 35, 106, 118, 126, 129, 136, 154, 162, 169, 172, 189, 193, 233, 242, 256, 275, 305, 313, 318, 323, 327, 330, 335, 340, 366, 373, 409, 418, 421, 437, 439, 445, 449.
+them           :	141, 151, 254, 399.
+there          :	15, 181.
+these          :	4, 247.
+they           :	259.
+thing          :	218.
+think          :	145.
+this           :	282.
+three          :	27, 152.
+through        :	188.
+tides          :	308.
+time           :	266.
+times          :	153.
+to             :	41, 99, 138, 219, 239, 252, 270, 298, 304, 312, 350, 364, 372, 390, 407, 427, 436.
+together       :	321.
+tombs          :	114.
+too            :	179.
+traveller      :	403.
+travellers     :	175.
+travels        :	5.
+true           :	224.
+truth          :	186.
+twice          :	289.
+us             :	21.
+variations     :	314.
+venture        :	251.
+veracity       :	200.
+very           :	157.
+volume         :	283.
+voyages        :	320.
+was            :	80, 195, 222, 362.
+weary          :	33.
+well           :	310.
+when           :	213.
+where          :	65, 84.
+wherein        :	346.
+which          :	101.
+whole          :	190, 410.
+whom           :	240.
+will           :	424, 441.
+winds          :	306.
+with           :	54, 135, 241, 322.
+work           :	367, 411.
+world          :	257.
+worthy         :	237.
+would          :	284.
+years          :	28.
+yet            :	70, 88.
+young          :	272.
+
