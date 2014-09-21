@@ -1,0 +1,29 @@
+**************************************************
+
+		BITS-PILANI 'DSA COURSE' 2013-14
+
+	RANK		NAME OF STUDENT
+
+	  1		Salman_Khan
+	  2		Aamir_Khan
+	  3		Shahrukh_Khan
+	  4		Debashish_Mohanty
+	  5		Rohan_Singh
+	  6		Utkarsh_Pathrabe
+	  7		Joel_Moniz
+	  8		Kunal_Kashilkar
+	  9		Saurabh_Satnalika
+	 10		Yash_Jain
+	 11		Sankhya_Chakravarty
+	 12		Amrut_Bawane
+	 13		Amrut_Rajkarne
+	 14		Tarun_Bhagat
+	 15		Prince_Singhal
+	 16		Arvind_Mohan
+	 17		Danish_Ashraf
+	 18		Chaitik_Meshram
+	 19		Kartikeya_Hande
+	 20		Mukul_Darak
+	 21		Raavan_Sharma
+
+**************************************************

@@ -1,0 +1,13 @@
+//To make an input file
+
+#include <stdio.h>
+#include <math.h>
+
+FILE *input(FILE *fp1, long size){
+	srand(time(NULL));
+	long i;
+	for(i = 0; i < size; i++){
+		fprintf(fp1, "%8ld\n", (1+(rand()%(size*2))));
+	}
+	return fp1;
+}
